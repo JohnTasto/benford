@@ -7,7 +7,7 @@ const uniform = (min, max) => Math.random() * (max - min) + min
 const benford = (min, max) => Math.exp(uniform(Math.log(min), Math.log(max)))
 ```
 
-That's it. Either `npm i -S bengen` if you like dependencies, or just copy and paste the above code.
+That's it. Either `npm i -S benford` if you like dependencies, or just copy and paste the above code.
 
 ## Todo
 

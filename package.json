@@ -1,6 +1,6 @@
 {
   "name": "benford",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "generates random numbers that follow the Benford distribution",
   "main": "index.js",
   "scripts": {
