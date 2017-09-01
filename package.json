@@ -1,0 +1,13 @@
+{
+  "name": "benford",
+  "version": "0.0.1",
+  "description": "generates random numbers that follow the Benford distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Tasto <john@tasto.net>",
+  "repository": "https://github.com/JohnTasto/benford",
+  "license": "MIT",
+  "dependencies": {}
+}
